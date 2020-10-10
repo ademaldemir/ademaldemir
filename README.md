@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 <p align='left'>
-  📫 How to reach me: <a href='mailto:ademaldemir@outlook.com'>info@bulentsiyah.com</a>
+  📫 How to reach me: <a href='mailto:ademaldemir@outlook.com'>ademaldemir@outlook.com</a>
 </p>
 
 &nbsp;&nbsp;
@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ademaldemir&show_icons=true&count_private=true&theme=radical" ></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademaldemir&layout=compact&theme=radical"  ></a>
-
 </div>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?ademaldemir=anuraghazra)](https://github.com/ademaldemir/github-readme-stats)
