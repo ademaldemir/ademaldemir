@@ -37,7 +37,6 @@ Hi, I'm [Adem](https://blog.abhisheknaidu.tech/), a Software Developer @IBM 🚀
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning N.L.P. and DB2; 
+- 🌱 I’m currently learning N.L.P., Computer Vision and IBM DB2. 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: <p align='center'><a href="https://www.linkedin.com/in/ademaldemir/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;&nbsp;
+- 📫 How to reach me: ademaldemir@outlook.com
