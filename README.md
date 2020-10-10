@@ -30,4 +30,4 @@ Hi, I'm [Adem](https://blog.abhisheknaidu.tech/), a Software Developer @IBM 🚀
 - 📫 How to reach me: ademaldemir@outlook.com
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?ademaldemir=<USERNAME>&theme=<THEME_NAME>" />
