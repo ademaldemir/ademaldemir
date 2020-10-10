@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.youracclaim.com/users/ademaldemir">
-  <img align="left" alt="Adem's YourAcclaim" width="45px" src="https://theme.zdassets.com/theme_assets/2382499/d2e455f37a41d85f6db43eba506997c548348b5a.png" />
+  <img align="left" alt="Adem's YourAcclaim" width="55px" src="https://theme.zdassets.com/theme_assets/2382499/d2e455f37a41d85f6db43eba506997c548348b5a.png" />
 </a>
 
 
