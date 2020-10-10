@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ademaldemir&show_icons=true&count_private=true&theme=radical" ></a>
 </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?ademaldemir=anuraghazra)](https://github.com/ademaldemir/github-readme-stats)
+[![Adem's github stats](https://github-readme-stats.vercel.app/api?ademaldemir=anuraghazra)](https://github.com/ademaldemir/github-readme-stats)
