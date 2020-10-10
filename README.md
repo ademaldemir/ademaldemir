@@ -28,3 +28,6 @@ Hi, I'm [Adem](https://blog.abhisheknaidu.tech/), a Software Developer @IBM 🚀
 - 🌱 I’m currently learning N.L.P., Computer Vision and IBM DB2. 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: ademaldemir@outlook.com
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
