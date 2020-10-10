@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Adem](https://blog.abhisheknaidu.tech/), a Software Developer <img src="https://cdn.iconscout.com/icon/free/png-256/ibm-282120.png"
-     alt="IBM"
-     style="float: left; margin-right: 10px;" /> 🚀 from Turkey, currently, I'm a Master of Science Computer Science Canditate 🙍🏽‍♂️ [@OzyeginUniversity](https://www.ozyegin.edu.tr/en), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Adem](https://blog.abhisheknaidu.tech/), a Software Developer <a href="https://www.ibm.com/tr-tr">
+  <img align="left" alt="IBM" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/ibm-282120.png" />
+</a> 🚀 from Turkey, currently, I'm a Master of Science Computer Science Canditate 🙍🏽‍♂️ [@OzyeginUniversity](https://www.ozyegin.edu.tr/en), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
