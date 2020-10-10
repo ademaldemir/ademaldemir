@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ademaldemir@outlook.com
 - 😄 Pronouns:  He/Him
 
--->### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/ademaldemir/">
   <img align="left" alt="Adem's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Adem](https://blog.abhisheknaidu.tech/), a Software Developer <a href="https://www.ibm.com/tr-tr"> <img align="left" alt="IBM" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/ibm-282120.png" /> </a>  from Turkey, currently, I'm a Master of Science Computer Science Canditate 🙍🏽‍♂️ [@OzyeginUniversity](https://www.ozyegin.edu.tr/en), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Adem](https://blog.abhisheknaidu.tech/), a Software Developer 
+
+<a href="https://www.ibm.com/tr-tr"> <img align="left" alt="IBM" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/ibm-282120.png" /> </a>
+
+from Turkey, currently, I'm a Master of Science Computer Science Canditate 🙍🏽‍♂️ [@OzyeginUniversity](https://www.ozyegin.edu.tr/en), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
