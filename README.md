@@ -1,15 +1,3 @@
-### Here is What I'm working on!🏀
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on IBM.
-- 🌱 I’m currently learning N.L.P., Computer Vision and IBM DB2.
-- 👯 I’m looking to collaborate on some useful Artificial Intelligence Projects.
-- 🤔 I’m looking for help with A.I. tools.
-- 💬 Ask me about Anything
-- 📫 How to reach me: ademaldemir@outlook.com
-- 😄 Pronouns:  He/Him
-
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/ademaldemir/">
@@ -30,7 +18,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Adem](https://blog.abhisheknaidu.tech/), a Software Developer @IBM 🚀 from Turkey, currently, I'm a Master of Science, Computer Science Canditate 📚 [@OzyeginUniversity](https://www.ozyegin.edu.tr/en). Beside's programming, I enjoy drinking coffee ☕️ and traveling.
+Hi, I'm [Adem](https://blog.abhisheknaidu.tech/), a Software Developer @IBM 🚀 from Turkey, currently, I'm a Master of Science, Computer Science Canditate 📚 [@OzyeginUniversity](https://www.ozyegin.edu.tr/en). Beside's programming, I enjoy drinking coffee ☕️ , traveling and playing Basketball 🏀 .
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
