@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on some useful Artificial Intelligence Projects.
 - 🤔 I’m looking for help with A.I. tools.
 - 💬 Ask me about Anything
-- 📫 How to reach me: ademaldemir@hotmail.com.tr
+- 📫 How to reach me: ademaldemir@outlook.com
 - 😄 Pronouns:  He/Him
 -->
