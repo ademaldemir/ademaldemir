@@ -24,12 +24,3 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;
   <a href="https://github.com/ademaldemir"><img src="https://github.com/bulentsiyah/bulentsiyah/blob/master/images/github.png"></a> 
 </p>
-
-
-### Github Stats
-
-<div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ademaldemir&show_icons=true&count_private=true&theme=radical" ></a>
-</div>
-
-[![Adem's github stats](https://github-readme-stats.vercel.app/api?ademaldemir=anuraghazra)](https://github.com/ademaldemir/github-readme-stats)
