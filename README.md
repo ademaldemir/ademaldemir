@@ -18,7 +18,10 @@
 
 <br />
 
-Hi, I'm Adem, a Software Developer [@IBM](https://www.ibm.com/tr-tr) 🚀 from Turkey, currently, I'm a Master of Science, Computer Science Canditate 📚 [@OzyeginUniversity](https://www.ozyegin.edu.tr/en). Beside's programming, I enjoy drinking coffee ☕️ , traveling and playing Basketball 🏀 .
+Hi, I'm Adem, a Software Developer [@IBM](https://www.ibm.com/tr-tr) 🚀 from Turkey, currently, I'm a Master of Science, Computer Science Canditate 📚 [@OzyeginUniversity](https://www.ozyegin.edu.tr/en). Beside's engineering/programming<a href="https://www.youracclaim.com/users/ademaldemir">
+  <img align="left" alt="Adem's YourAcclaim" width="55px" src="https://theme.zdassets.com/theme_assets/2382499/d2e455f37a41d85f6db43eba506997c548348b5a.png" />
+</a>
+, I enjoy drinking coffee ☕️ , traveling and playing Basketball 🏀 .
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
