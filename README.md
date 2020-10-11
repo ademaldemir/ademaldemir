@@ -27,4 +27,4 @@ Hi, I'm Adem, a Software Developer @IBM 🚀 from Turkey, currently, I'm a Maste
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning N.L.P., Computer Vision and IBM DB2. 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me:ademaldemir@outlook.com
+- 📫 How to reach me: ademaldemir@outlook.com
