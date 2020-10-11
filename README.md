@@ -18,7 +18,7 @@
 
 <br />
 
-Hi, I'm Adem, a Software Developer @IBM 🚀 from Turkey, currently, I'm a Master of Science, Computer Science Canditate 📚 [@OzyeginUniversity](https://www.ozyegin.edu.tr/en). Beside's programming, I enjoy drinking coffee ☕️ , traveling and playing Basketball 🏀 .
+Hi, I'm Adem, a Software Developer [@IBM](https://www.ibm.com/tr-tr) 🚀 from Turkey, currently, I'm a Master of Science, Computer Science Canditate 📚 [@OzyeginUniversity](https://www.ozyegin.edu.tr/en). Beside's programming, I enjoy drinking coffee ☕️ , traveling and playing Basketball 🏀 .
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
