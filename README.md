@@ -35,7 +35,7 @@ Hi, I'm Adem, a Software Developer [@IBM](https://www.ibm.com/tr-tr) 🚀 from T
 
 
 
-Notes to myself : 
+_Notes to myself :_
 
 Beautiful is better than ugly.
 Explicit is better than implicit.
