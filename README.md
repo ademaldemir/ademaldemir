@@ -30,6 +30,11 @@ Hi, I'm Adem, a Software Developer [@IBM](https://www.ibm.com/tr-tr) 🚀 from T
 - 📫 How to reach me: ademaldemir@outlook.com
 
 
+
+
+
+
+
 Notes to myself : 
 
 Beautiful is better than ugly.
