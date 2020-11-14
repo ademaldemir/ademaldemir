@@ -24,9 +24,9 @@ Hi, I'm Adem, a Software Developer [@IBM](https://www.ibm.com/tr-tr) 🚀 from T
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Computer Vision, Natural Language Processing and IBM DB2. 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: ademaldemir@outlook.com
 
 
