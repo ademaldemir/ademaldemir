@@ -29,7 +29,7 @@
 
 Hi, I'm Adem, a Software Engineer [@IBM](https://www.ibm.com/tr-tr) 🚀 from Turkey, currently, I'm a Master of Science, Computer Science Canditate 📚 [@OzyeginUniversity](https://www.ozyegin.edu.tr/en). Beside's engineering/programming👨🏻‍💻, I enjoy drinking coffee ☕️ , listening to electronic kinds of music 🎧 traveling, and playing Basketball 🏀 .
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/ademaldemir/ademaldemir/blob/main/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
