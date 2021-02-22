@@ -8,9 +8,9 @@
   <img align="left" alt="Adem's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://t.me/ademaldemir">
-  <img align="left" alt="Adem's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+-- --> <a href="https://t.me/ademaldemir">
+-- -->  <img align="left" alt="Adem's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+-- --> </a>
 
 
 <a href="https://www.youracclaim.com/users/ademaldemir">
