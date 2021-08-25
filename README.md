@@ -1,4 +1,7 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# <samp>Adem Aldemir</samp><img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
+
+
+## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">
 
 <a href="https://www.linkedin.com/in/ademaldemir/">
   <img align="left" alt="Adem's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
