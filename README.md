@@ -1,7 +1,6 @@
 # <samp>Adem Aldemir</samp><img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
 
 
-## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">
 
 <a href="https://www.linkedin.com/in/ademaldemir/">
   <img align="left" alt="Adem's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -25,6 +24,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ademaldemir.ademaldemir)
 
 <br />
+
+## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">
 
 Hi, I'm Adem, a Software Engineer [@DefineX](http://www.teamdefinex.com/) 🚀 from Turkey, currently, I'm a Master of Science, Computer Science Canditate 📚 [@OzyeginUniversity](https://www.ozyegin.edu.tr/en). Beside's engineering/programming👨🏻‍💻, I enjoy playing guitar 🎸 , singing songs 🎙 ,  drinking coffee ☕️ , listening to electronic kinds of music 🎧 traveling, and playing Basketball 🏀 . 
 
