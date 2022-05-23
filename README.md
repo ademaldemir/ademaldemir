@@ -30,8 +30,6 @@ Hi, I'm Adem, a Software Engineer [@DefineX](http://www.teamdefinex.com/) 🚀 f
   
 ### 🛠 Tech Stack
 
-> skills
-
 - 🔭 Back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java) ![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker) [![Maven](https://badgen.net/badge/icon/maven?icon=maven&label)](https://https://maven.apache.org/)
 
 - 👯 Front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)
@@ -45,7 +43,7 @@ Hi, I'm Adem, a Software Engineer [@DefineX](http://www.teamdefinex.com/) 🚀 f
 - 🌱 Learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python) ![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php) ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3) ![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)
 
 
-### 😊🖐️ Talking about Personal Stuffs:
+### ✨ Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🚀 I’m currently learning some Back-End and Front-End Technologies.
