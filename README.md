@@ -30,8 +30,8 @@ Hi, I'm Adem, a Software Engineer [@DefineX](http://www.teamdefinex.com/) 🚀 f
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Computer Vision, and Natural Language Processing, Statistics and Data Science tools. 
-- 💬 Ask me about anything, I am happy to help
+- 🚀 I’m currently learning some Back-End and Front-End Technologies.
+- 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: adem.aldemir@outlook.com
 
 
