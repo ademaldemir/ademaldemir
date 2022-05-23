@@ -25,9 +25,27 @@
 
 Hi, I'm Adem, a Software Engineer [@DefineX](http://www.teamdefinex.com/) 🚀 from Turkey, currently, I'm a Master of Science, Computer Science Canditate 📚 [@OzyeginUniversity](https://www.ozyegin.edu.tr/en). Beside's engineering/programming👨🏻‍💻, I enjoy playing the guitar 🎸 , singing songs 🎙 ,  drinking coffee ☕️, eating healthy foods 🥗, listening to electronic kinds of music 🎧 traveling ✈️, exploring different places 🌉, and bodybuilding 💪, and going to the fitness🏋️‍♂️. 
 
-  <img align="right" alt="GIF" src="https://github.com/ademaldemir/ademaldemir/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/ademaldemir/ademaldemir/blob/main/code.gif?raw=true" width="500" height="320" />
   
-**Talking about Personal Stuffs:**
+  
+### 🛠 Tech Stack
+
+> skills
+
+- 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java) ![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker) [![Maven](https://badgen.net/badge/icon/maven?icon=maven&label)](https://https://maven.apache.org/)
+
+- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)
+
+- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode) ![Intelli JIDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=flat-circle&logo=IntelliJIDEA) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown) [![Atom](https://badgen.net/badge/icon/atom?icon=atom&label)](https://atom.io)
+
+- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git) ![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell) ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux) ![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab) ![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub) ![Gitee](https://img.shields.io/badge/-Gitee-red?style=flat-circle&logo=Gitee)
+
+- 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB) ![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle) ![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
+
+- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python) ![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php) ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3) ![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)
+
+
+### 😊🖐️ Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🚀 I’m currently learning some Back-End and Front-End Technologies.
