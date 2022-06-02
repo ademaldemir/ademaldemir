@@ -1,4 +1,9 @@
-# <samp>Adem Aldemir</samp><img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
+# <samp>Adem Aldemir</samp>
+
+<!---
+<img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
+-->
+
 
 
 
