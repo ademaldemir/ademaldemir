@@ -1,11 +1,8 @@
-# <samp>Adem Aldemir</samp> <img src="https://i.pinimg.com/originals/71/33/c7/7133c746eca7e3a7b84aee1027b4b935.gif" width="50"/> 
+#  <img src="https://i.pinimg.com/originals/71/33/c7/7133c746eca7e3a7b84aee1027b4b935.gif" width="50"/>  <samp> Hello World!</samp>
 
 <!---
 <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
 -->
-
-
-
 
 <a href="https://www.linkedin.com/in/ademaldemir/">
   <img align="left" alt="Adem's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -26,7 +23,7 @@
 
 <br />
 
-## <samp>Hello World!</samp> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="50"/>
+## 
 
 <!---
  <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">
@@ -59,6 +56,4 @@ Hi, I'm Adem, a Software Engineer [@DefineX](http://www.teamdefinex.com/) 🚀 f
 
 - 🌱 Learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python) ![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php) ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3) ![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)
 
-
-
-
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="50"/> 
