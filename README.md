@@ -26,7 +26,11 @@
 
 <br />
 
-## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">
+## <samp>Hello World!</samp>
+
+<!---
+ <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">
+-->
 
 Hi, I'm Adem, a Software Engineer [@DefineX](http://www.teamdefinex.com/) 🚀 from Turkey, currently, I'm a Master of Science, Computer Science Canditate 📚 [@OzyeginUniversity](https://www.ozyegin.edu.tr/en). Beside's engineering/programming👨🏻‍💻, I enjoy playing the guitar 🎸 , singing songs 🎙 ,  drinking coffee ☕️, eating healthy foods 🥗, listening to electronic kinds of music 🎧 traveling ✈️, exploring different places 🌉, and bodybuilding 💪, and going to the fitness🏋️‍♂️. 
 
