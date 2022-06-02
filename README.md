@@ -34,8 +34,8 @@
 
 Hi, I'm Adem, a Software Engineer [@DefineX](http://www.teamdefinex.com/) 🚀 from Turkey, currently, I'm a Master of Science, Computer Science Canditate 📚 [@OzyeginUniversity](https://www.ozyegin.edu.tr/en). Beside's engineering/programming👨🏻‍💻, I enjoy playing the guitar 🎸 , singing songs 🎙 ,  drinking coffee ☕️, eating healthy foods 🥗, listening to electronic kinds of music 🎧 traveling ✈️, exploring different places 🌉, and bodybuilding 💪, and going to the fitness🏋️‍♂️. 
 
- <img align="right" alt="GIF" src="https://github.com/ademaldemir/ademaldemir/blob/main/code.gif?raw=true" width="500" height="320" />
-  
+<img align="right" alt="GIF" src="https://github.com/ademaldemir/ademaldemir/blob/main/code.gif?raw=true" width="500" height="320" />
+
   
 ### 🛠 Tech Stack
 
