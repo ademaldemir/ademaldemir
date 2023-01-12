@@ -29,7 +29,7 @@
  <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">
 -->
 
-Hi, I'm Adem, a Software Engineer 🚀 from Turkey, currently, I'm a Master of Science, Computer Science Canditate 📚 [@OzyeginUniversity](https://www.ozyegin.edu.tr/en). Beside's engineering/programming👨🏻‍💻, I enjoy playing the guitar 🎸 , singing songs 🎙 ,  drinking coffee ☕️, eating healthy foods 🥗, listening to electronic kinds of music for example Daft Punk is my favorite artist 🎧 traveling ✈️, exploring different places 🌉, and bodybuilding 💪, so going to the fitness🏋️‍♂️ are my hobbies. 
+Hi, I'm Adem, working as a Java Developer in a German Project of [@NTT DATA]([https://www.ozyegin.edu.tr/en](https://www.linkedin.com/company/nttdata/)) 🚀 and I'm from Turkey, last year, I was a Master of Science, Computer Science student 📚 [@OzyeginUniversity](https://www.ozyegin.edu.tr/en). Beside's engineering/programming👨🏻‍💻, I enjoy playing the guitar 🎸 , singing songs 🎙 ,  drinking coffee ☕️, eating healthy foods 🥗, listening to electronic kinds of music for example Daft Punk is my favorite artist 🎧 traveling ✈️, exploring different places 🌉, and bodybuilding 💪, so going to the fitness🏋️‍♂️ are my hobbies. 
 
 <img align="right" alt="GIF" src="https://github.com/ademaldemir/ademaldemir/blob/main/code.gif?raw=true" width="450"  />
 
