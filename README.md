@@ -10,7 +10,7 @@
 
 
 <a href="https://www.youracclaim.com/users/ademaldemir">
-  <img align="left" alt="Adem's Credly" width="55px" src="https://cdn.icon-icons.com/icons2/3911/PNG/512/credly_logo_icon_247258.png" />
+  <img align="left" alt="Adem's Credly" width="55px" src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/Credly.PNG?itok=10_wGJDu" />
 </a>
 
 
