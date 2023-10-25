@@ -16,7 +16,7 @@
 
 
 <a href="https://leetcode.com/ademaldemir/">
-  <img align="left" alt="Adem's Leetcode" width="22px" src="https://gitjcdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Adem's Leetcode" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3627112-3029520.png" />
 </a>
 
 <a href="https://instagram.com/ademaldemirx/">
