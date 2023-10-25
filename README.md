@@ -10,7 +10,7 @@
 
 
 <a href="https://www.youracclaim.com/users/ademaldemir">
-  <img align="left" alt="Adem's YourAcclaim" width="55px" src="[https://theme.zdassets.com/theme_assets/](https://theme.zdassets.com/theme_assets/)2382499/d2e455f37a41d85f6db43eba506997c548348b5a.png" />
+  <img align="left" alt="Adem's YourAcclaim" width="55px" src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" />
 </a>
 
 
