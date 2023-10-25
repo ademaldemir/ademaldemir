@@ -5,12 +5,12 @@
 -->
 
 <a href="https://www.linkedin.com/in/ademaldemir/">
-  <img align="left" alt="Adem's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Adem's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 
 <a href="https://www.youracclaim.com/users/ademaldemir">
-  <img align="left" alt="Adem's YourAcclaim" width="55px" src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" />
+  <img align="left" alt="Adem's Credly" width="55px" src="https://cdn.icon-icons.com/icons2/3911/PNG/512/credly_logo_icon_247258.png" />
 </a>
 
 
