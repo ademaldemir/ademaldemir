@@ -10,13 +10,17 @@
 
 
 <a href="https://www.youracclaim.com/users/ademaldemir">
-  <img align="left" alt="Adem's YourAcclaim" width="55px" src="https://theme.zdassets.com/theme_assets/2382499/d2e455f37a41d85f6db43eba506997c548348b5a.png" />
+  <img align="left" alt="Adem's YourAcclaim" width="55px" src="[https://theme.zdassets.com/theme_assets/](https://theme.zdassets.com/theme_assets/)2382499/d2e455f37a41d85f6db43eba506997c548348b5a.png" />
 </a>
 
 
 
 <a href="https://leetcode.com/ademaldemir/">
-  <img align="left" alt="Adem's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Adem's Leetcode" width="22px" src="https://gitjcdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+
+<a href="https://instagram.com/ademaldemirx/">
+  <img align="left" alt="Adem's Instagram" width="22px" src="https://e7.pngegg.com/pngimages/921/388/png-clipart-instagram-computer-icons-logo-instagram-text-logo-thumbnail.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ademaldemir.ademaldemir)
